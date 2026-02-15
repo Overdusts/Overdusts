@@ -103,6 +103,16 @@ fun_fact: I automate things I'll only do twice
 
 ---
 
+### &nbsp; Now Playing
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tauhivjyqd2tc3stgw5nzj5nza&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tauhivjyqd2tc3stgw5nzj5nza&redirect=true)
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
