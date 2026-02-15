@@ -85,7 +85,7 @@ interests: [Web Dev, Automation, Crypto, Tools]
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Overdusts&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Overdusts&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 </div>
 
 ---
