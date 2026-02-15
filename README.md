@@ -15,8 +15,6 @@
 
 <br>
 
-<table><tr><td valign="top" width="60%">
-
 ### &nbsp; `~/about-me`
 
 ```yaml
@@ -31,12 +29,6 @@ interests:
   - Cybersecurity
 currently_learning: Rust
 ```
-
-</td><td valign="top" width="40%">
-
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%"/>
-
-</td></tr></table>
 
 ---
 
@@ -116,11 +108,7 @@ currently_learning: Rust
 
 <div align="center">
 
-```
-while (alive) { eat(); sleep(); code(); repeat(); }
-```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&random=true&width=500&lines=%E2%9C%A6+Talk+is+cheap.+Show+me+the+code.+%E2%80%93+Linus+Torvalds;%E2%9C%A6+First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%93+John+Johnson;%E2%9C%A6+Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.+%E2%80%93+Cory+House;%E2%9C%A6+Any+fool+can+write+code+that+a+computer+can+understand.+%E2%80%93+Martin+Fowler;%E2%9C%A6+It+works+on+my+machine.+%E2%80%93+Every+Developer+Ever" alt="Dev Quotes"/>
 
 </div>
 
