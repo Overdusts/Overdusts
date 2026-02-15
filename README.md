@@ -1,14 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Overdusts&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Overdusts&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sarthak%20Goyal&descAlignY=55&descSize=18&descColor=A960FF)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=60&lines=%3E+Building+things+that+shouldn't+exist;%3E+Breaking+things+that+should)](https://git.io/typing-svg)
 
 <br>
 
-<a href="https://discord.com/users/overdusts">
 <img src="https://img.shields.io/badge/Discord-overdusts-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 <a href="https://github.com/Overdusts">
 <img src="https://komarev.com/ghpvc/?username=Overdusts&label=Views&color=A960FF&style=for-the-badge" alt="Profile Views"/>
 </a>
@@ -17,7 +15,7 @@
 
 <br>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<table><tr><td valign="top" width="60%">
 
 ### &nbsp; `~/about-me`
 
@@ -30,12 +28,15 @@ interests:
   - Web Development
   - Automation & Tooling
   - Crypto & Blockchain
-  - Software Engineering
-currently_learning: Java (OOP)
-fun_fact: I automate things I'll only do twice
+  - Cybersecurity
+currently_learning: Rust
 ```
 
-<br clear="right"/>
+</td><td valign="top" width="40%">
+
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%"/>
+
+</td></tr></table>
 
 ---
 
@@ -115,7 +116,11 @@ fun_fact: I automate things I'll only do twice
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+```
+while (alive) { eat(); sleep(); code(); repeat(); }
+```
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote"/>
 
 </div>
 
