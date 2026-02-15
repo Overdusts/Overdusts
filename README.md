@@ -51,8 +51,8 @@ interests: [Web Dev, Automation, Crypto, Tools]
 
 <div align="center">
 <a href="https://github.com/Overdusts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Overdusts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overdusts&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overdusts&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8"/>
 </a>
 </div>
 
