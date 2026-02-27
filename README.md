@@ -108,7 +108,7 @@ fun_fact: "I mass build tools just because I can"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Overdusts&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Overdusts&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
