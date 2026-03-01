@@ -104,23 +104,12 @@ fun_fact: "I mass build tools just because I can"
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### &nbsp;🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=Overdusts&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### &nbsp;📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Overdusts">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&ring_color=A960FF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&ring_color=A960FF&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overdusts&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8"/>
 </a>
 
@@ -130,6 +119,25 @@ fun_fact: "I mass build tools just because I can"
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Overdusts&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6600&currStreakLabel=A960FF&sideLabels=A960FF&dates=888888" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<!-- Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Overdusts&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Overdusts&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Overdusts&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Overdusts&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Overdusts&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 <br>
@@ -169,7 +177,7 @@ fun_fact: "I mass build tools just because I can"
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A960FF&center=true&vCenter=true&random=true&width=500&lines=%E2%9C%A6+Talk+is+cheap.+Show+me+the+code.+%E2%80%93+Linus+Torvalds;%E2%9C%A6+First%2C+solve+the+problem.+Then%2C+write+the+code.;%E2%9C%A6+Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;%E2%9C%A6+It+works+on+my+machine.+%E2%80%93+Every+Developer+Ever;%E2%9C%A6+There+are+no+bugs%2C+only+features+%E2%80%93+Overdusts" alt="Dev Quotes"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=%E2%9C%A6+at+your+best+you+are+love;%E2%9C%A6+color+my+life+with+the+chaos+of+trouble" alt="Quotes"/>
 
 </div>
 
