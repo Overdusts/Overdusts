@@ -107,37 +107,16 @@ fun_fact: "I mass build tools just because I can"
 ### &nbsp;📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/Overdusts">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&ring_color=A960FF&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overdusts&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Overdusts&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6600&currStreakLabel=A960FF&sideLabels=A960FF&dates=888888" alt="GitHub Streak"/>
 </div>
 
 <br>
 
-<!-- Profile Summary Cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Overdusts&theme=tokyonight" alt="Profile Details"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Overdusts&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Overdusts&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Overdusts&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Overdusts&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+<a href="https://github.com/Overdusts">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&ring_color=A960FF&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overdusts&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&langs_count=8"/>
+</a>
 </div>
 
 <br>
