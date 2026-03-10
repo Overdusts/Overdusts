@@ -23,8 +23,7 @@
 const overdusts = {
     name: "Sarthak Goyal",
     location: "India",
-    focus: ["Web Dev", "Automation", "Crypto", "Cybersec"],
-    fun_fact: "I mass build tools just because I can",
+    focus: ["Automation", "Web3", "Cybersec"],
 };
 ```
 
