@@ -1,14 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=120&section=header&text=Overdusts&fontSize=42&fontColor=A960FF&animation=fadeIn&fontAlignY=50&desc=Sarthak%20Goyal&descAlignY=72&descSize=14&descColor=555)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Overdusts&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sarthak%20Goyal&descAlignY=55&descSize=16&descColor=A960FF)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=450&height=40&lines=building+things+that+shouldn't+exist;breaking+things+that+should)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=420&height=40&lines=at+your+best%2C+you+are+love;color+my+life+with+the+chaos+of+trouble)](https://git.io/typing-svg)
 
 <a href="https://discord.com/users/285253310921834497">
 <img src="https://img.shields.io/badge/discord-overdusts-5865F2?style=flat&logo=discord&logoColor=white"/>
 </a>&nbsp;
 <a href="https://overdusts.xyz">
-<img src="https://img.shields.io/badge/web-overdusts.xyz-A960FF?style=flat&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/overdusts.xyz-A960FF?style=flat&logo=googlechrome&logoColor=white"/>
+</a>&nbsp;
+<a href="https://overdusts.com">
+<img src="https://img.shields.io/badge/overdusts.com-A960FF?style=flat&logo=googlechrome&logoColor=white"/>
 </a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Overdusts&label=views&color=A960FF&style=flat" alt="Profile Views"/>
 
@@ -75,7 +78,7 @@ learning: Rust
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=2000&color=555555&center=true&vCenter=true&repeat=true&random=false&width=400&height=20&lines=at+your+best+you+are+love;color+my+life+with+the+chaos+of+trouble" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=555555&center=true&vCenter=true&repeat=true&random=false&width=380&height=18&lines=at+your+best%2C+you+are+love;color+my+life+with+the+chaos+of+trouble" alt=""/>
 
 </div>
 
