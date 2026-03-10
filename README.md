@@ -19,19 +19,28 @@
 
 <br>
 
-```yaml
-name: Sarthak Goyal
-handle: Overdusts
-location: India
-focus: Web Development, Automation, Crypto, Cybersec
-learning: Rust
+```js
+const overdusts = {
+    name: "Sarthak Goyal",
+    location: "India",
+    focus: ["Web Dev", "Automation", "Crypto", "Cybersec"],
+    fun_fact: "I mass build tools just because I can",
+};
 ```
 
 <br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,rust,java,html,css,nodejs,tailwind,git,vscode&theme=dark" />
+`known`
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,java,nodejs,tailwind,git,vscode&theme=dark" />
+
+<br><br>
+
+`learning`
+
+<img src="https://skillicons.dev/icons?i=js,rust,cpp&theme=dark" />
 
 </div>
 
