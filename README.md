@@ -1,8 +1,16 @@
+```
+
+   ██████  ██    ██ ███████ ██████  ██████  ██    ██ ███████ ████████ ███████
+  ██    ██ ██    ██ ██      ██   ██ ██   ██ ██    ██ ██         ██    ██
+  ██    ██ ██    ██ █████   ██████  ██   ██ ██    ██ ███████    ██    ███████
+  ██    ██  ██  ██  ██      ██   ██ ██   ██ ██    ██      ██    ██         ██
+   ██████    ████   ███████ ██   ██ ██████   ██████  ███████    ██    ███████
+
+```
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Overdusts&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sarthak%20Goyal&descAlignY=55&descSize=16&descColor=A960FF)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=420&height=40&lines=at+your+best%2C+you+are+love;color+my+life+with+the+chaos+of+trouble)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1500&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=35&lines=%24+at+your+best%2C+you+are+love;%24+color+my+life+with+the+chaos+of+trouble;%24+cat+%2Fdev%2Fnull+%3E+%7E%2Fworries)](https://git.io/typing-svg)
 
 <a href="https://discord.com/users/285253310921834497">
 <img src="https://img.shields.io/badge/discord-overdusts-5865F2?style=flat&logo=discord&logoColor=white"/>
@@ -17,23 +25,27 @@
 
 </div>
 
-<br>
+#
 
-```js
-const overdusts = {
-    name: "Sarthak Goyal",
-    location: "India",
-    focus: ["Automation", "Web3", "Cybersec"],
-};
+```bash
+overdusts@github:~$ whoami
+```
+```yaml
+name     : Sarthak Goyal
+handle   : Overdusts
+location : India
+focus    : [Automation, Web3, Cybersec]
 ```
 
-<br>
+```bash
+overdusts@github:~$ ls ~/tech-stack/
+```
 
 <div align="center">
 <table>
 <tr>
-<td align="center"><b>Known</b></td>
-<td align="center"><b>Learning</b></td>
+<td align="center"><code>~/known/</code></td>
+<td align="center"><code>~/learning/</code></td>
 </tr>
 <tr>
 <td align="center">
@@ -46,7 +58,9 @@ const overdusts = {
 </table>
 </div>
 
-<br>
+```bash
+overdusts@github:~$ git log --oneline --graph
+```
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Overdusts&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6600&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555&card_width=700" alt="GitHub Streak"/>
@@ -67,6 +81,10 @@ const overdusts = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Overdusts&bg_color=0D1117&color=A960FF&line=A960FF&point=555555&area=true&area_color=A960FF&hide_border=true&custom_title=" alt="Activity Graph"/>
 </div>
 
+```bash
+overdusts@github:~$ cat ~/contributions.snake
+```
+
 <div align="center">
 
 <picture>
@@ -77,7 +95,9 @@ const overdusts = {
 
 </div>
 
-<br>
+```bash
+overdusts@github:~$ spotify --now-playing
+```
 
 <div align="center">
 
@@ -89,8 +109,8 @@ const overdusts = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=555555&center=true&vCenter=true&repeat=true&random=false&width=380&height=18&lines=at+your+best%2C+you+are+love;color+my+life+with+the+chaos+of+trouble" alt=""/>
+```
+overdusts@github:~$ echo "thanks for stopping by" && exit
+```
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0D1117&height=1&section=footer"/>
