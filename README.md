@@ -30,17 +30,20 @@ const overdusts = {
 <br>
 
 <div align="center">
-
-`known`
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,java,nodejs,tailwind,git,vscode&theme=dark" />
-
-<br><br>
-
-`learning`
-
-<img src="https://skillicons.dev/icons?i=js,rust,cpp&theme=dark" />
-
+<table>
+<tr>
+<td align="center"><b>Known</b></td>
+<td align="center"><b>Learning</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,nodejs,tailwind,git,vscode&perline=4&theme=dark" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js,rust,cpp,java&perline=4&theme=dark" />
+</td>
+</tr>
+</table>
 </div>
 
 <br>
