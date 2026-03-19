@@ -2,18 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Overdusts&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sarthak%20Goyal&descAlignY=55&descSize=16&descColor=A960FF)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=420&height=40&lines=at+your+best%2C+you+are+love;color+my+life+with+the+chaos+of+trouble)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=435&height=30&lines=at+your+best%2C+you+are+love;color+my+life+with+the+chaos+of+trouble)](https://git.io/typing-svg)
 
-<a href="https://discord.com/users/285253310921834497">
-<img src="https://img.shields.io/badge/discord-overdusts-5865F2?style=flat&logo=discord&logoColor=white"/>
-</a>&nbsp;
-<a href="https://overdusts.xyz">
-<img src="https://img.shields.io/badge/overdusts.xyz-A960FF?style=flat&logo=googlechrome&logoColor=white"/>
-</a>&nbsp;
-<a href="https://overdusts.com">
-<img src="https://img.shields.io/badge/overdusts.com-A960FF?style=flat&logo=googlechrome&logoColor=white"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Overdusts&label=views&color=A960FF&style=flat" alt="Profile Views"/>
+<a href="https://discord.com/users/285253310921834497"><img src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=5865F2"/></a>
+<a href="https://overdusts.xyz"><img src="https://img.shields.io/badge/-overdusts.xyz-0D1117?style=flat-square&logo=googlechrome&logoColor=A960FF"/></a>
+<a href="https://overdusts.com"><img src="https://img.shields.io/badge/-overdusts.com-0D1117?style=flat-square&logo=googlechrome&logoColor=A960FF"/></a>
+<img src="https://komarev.com/ghpvc/?username=Overdusts&label=&color=A960FF&style=flat-square" alt="views"/>
 
 </div>
 
@@ -30,42 +24,35 @@ const overdusts = {
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td align="center"><b>Known</b></td>
-<td align="center"><b>Learning</b></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,nodejs,tailwind,git,vscode&perline=4&theme=dark" />
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js,rust,cpp,java&perline=4&theme=dark" />
-</td>
-</tr>
-</table>
+
+<img src="https://skillicons.dev/icons?i=python,c,js,rust,cpp,java,html,css,nodejs,tailwind,git,vscode&perline=12&theme=dark" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Overdusts&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6600&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555&card_width=700" alt="GitHub Streak"/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Overdusts&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=10" alt="trophies"/>
+</a>
+
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Overdusts&theme=transparent&hide_border=true&ring=A960FF&fire=FF6600&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555&stroke=00000000" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
 <a href="https://github.com/Overdusts">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=999&count_private=true&ring_color=A960FF&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overdusts&layout=compact&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=999&langs_count=6"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&hide_border=true&bg_color=00000000&title_color=A960FF&icon_color=A960FF&text_color=999&count_private=true&rank_icon=github"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overdusts&layout=compact&hide_border=true&bg_color=00000000&title_color=A960FF&text_color=999&langs_count=6"/>
 </a>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Overdusts&bg_color=0D1117&color=A960FF&line=A960FF&point=555555&area=true&area_color=A960FF&hide_border=true&custom_title=" alt="Activity Graph"/>
-</div>
 
 <div align="center">
 
@@ -82,14 +69,6 @@ const overdusts = {
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tauhivjyqd2tc3stgw5nzj5nza&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0D1117&interchange=true&bar_color=A960FF&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tauhivjyqd2tc3stgw5nzj5nza&redirect=true)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=4000&pause=2000&color=555555&center=true&vCenter=true&repeat=true&random=false&width=380&height=18&lines=at+your+best%2C+you+are+love;color+my+life+with+the+chaos+of+trouble" alt=""/>
 
 </div>
 
