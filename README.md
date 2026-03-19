@@ -32,16 +32,6 @@ const overdusts = {
 <br>
 
 <div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Overdusts&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=10" alt="trophies"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Overdusts&theme=transparent&hide_border=true&ring=A960FF&fire=FF6600&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555&stroke=00000000" alt="GitHub Streak"/>
 </div>
 
