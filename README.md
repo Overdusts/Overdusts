@@ -24,14 +24,6 @@ const overdusts = {
 <br>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,js,rust,cpp,java,html,css,nodejs,tailwind,git,vscode&perline=12&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Overdusts&bg_color=0D1117&color=A960FF&line=A960FF&point=555555&area=true&area_color=A960FF&hide_border=true&custom_title=" alt="Activity Graph"/>
 </div>
 
