@@ -32,14 +32,7 @@ const overdusts = {
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Overdusts&theme=transparent&hide_border=true&ring=A960FF&fire=FF6600&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555&stroke=00000000" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<a href="https://github.com/Overdusts">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Overdusts&show_icons=true&hide_border=true&bg_color=00000000&title_color=A960FF&icon_color=A960FF&text_color=999&count_private=true&rank_icon=github"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Overdusts&layout=compact&hide_border=true&bg_color=00000000&title_color=A960FF&text_color=999&langs_count=6"/>
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Overdusts&bg_color=0D1117&color=A960FF&line=A960FF&point=555555&area=true&area_color=A960FF&hide_border=true&custom_title=" alt="Activity Graph"/>
 </div>
 
 <br>
