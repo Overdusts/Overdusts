@@ -4,22 +4,19 @@
 
 <br/><br/>
 
-<a href="https://overdusts.xyz"><img src="https://img.shields.io/badge/-overdusts.xyz-0D1117?style=flat-square&logo=googlechrome&logoColor=A960FF"/></a>
 <a href="https://overdusts.github.io/themery/"><img src="https://img.shields.io/badge/-themery_·_live-0D1117?style=flat-square&logo=githubpages&logoColor=00E5FF"/></a>
 <a href="https://discord.com/users/285253310921834497"><img src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=5865F2"/></a>
 <img src="https://komarev.com/ghpvc/?username=Overdusts&label=&color=A960FF&style=flat-square" alt="views"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3600&pause=1800&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=520&height=30&lines=building+weird%2C+useful+things+%E2%80%94+automation+%C2%B7+web3+%C2%B7+cybersec;latest%3A+themery+%E2%80%94+a+living+UI%2FUX+theme+gallery;at+your+best%2C+you+are+love)](https://overdusts.xyz)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3600&pause=1800&color=A960FF&center=true&vCenter=true&repeat=true&random=false&width=520&height=30&lines=building+weird%2C+useful+things+%E2%80%94+automation+%C2%B7+web3+%C2%B7+cybersec;latest%3A+themery+%E2%80%94+a+living+UI%2FUX+theme+gallery;at+your+best%2C+you+are+love)
 
 </div>
 
 ```ts
 const sarthak = {
-  alias:    "Overdusts",
-  base:     "India",
-  stack:    ["Python", "TypeScript", "JavaScript", "C#", "Rust", "Go"],
-  focus:    ["automation", "web3", "cybersec"],
-  shipping: "themery — a living gallery of 2026 UI/UX themes",
+  base: "india",
+  into: ["automation", "web3", "cybersec"],
+  now:  "themery",
 };
 ```
 
@@ -80,15 +77,6 @@ const sarthak = {
 <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=A960FF"/>
 
 <br/>
-
-### `// stats`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Overdusts&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=8B5CF6&text_color=8B949E&ring_color=8B5CF6" height="165" alt="stats"/>&nbsp;
-<img src="https://streak-stats.demolab.com?user=Overdusts&hide_border=true&background=0D1117&ring=8B5CF6&fire=A960FF&currStreakLabel=A960FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=484F58&stroke=21262D" height="165" alt="streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overdusts&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=8B949E" height="135" alt="top languages"/>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Overdusts/Overdusts/output/github-snake-dark.svg" />
