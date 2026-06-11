@@ -12,14 +12,6 @@
 
 </div>
 
-```ts
-const sarthak = {
-  base: "india",
-  into: ["automation", "web3", "cybersec"],
-  now:  "themery",
-};
-```
-
 <br/>
 
 <div align="center">
