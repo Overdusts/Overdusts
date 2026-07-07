@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: Overdusts
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%2317140F&color_dots=%23E4DBC8,%23F0B7A5,%23EB7C5E,%23F0522F,%23FF3B12
+            dist/github-snake-dark.svg?color_snake=%23FF3B12&color_dots=%23161211,%235c2a20,%238f3a28,%23c9432c,%23FF3B12
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
