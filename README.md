@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/github/stars/Overdusts?style=for-the-badge&label=STARS&labelColor=17140F&color=FF3B12&logo=github&logoColor=EDE6D6" alt="stars"/>
 <img src="https://komarev.com/ghpvc/?username=Overdusts&label=READERS&color=FF3B12&style=for-the-badge" alt="readers"/>
 
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Overdusts&bg_color=EDE6D6&color=17140F&line=FF3B12&point=17140F&area=true&area_color=FF3B12&title_color=17140F&hide_border=false&custom_title=Dispatch%20Frequency&radius=4" alt="dispatch frequency"/>
-
 </div>
 
 <br/>
