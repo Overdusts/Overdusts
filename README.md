@@ -13,7 +13,7 @@
 
 <br/>
 
-I build tools that watch on-chain money and the systems around it — crypto analytics, Discord infrastructure, and security automation. Currently going deep on **Web3 security**: learning to read Solidity like an attacker, and building the on-chain tooling to match.
+I build tools that watch on-chain money and the systems around it — crypto analytics, Discord infrastructure, and security automation. Currently going deep on **Web3 security** and building the on-chain tooling to match.
 
 **Selected work**
 
