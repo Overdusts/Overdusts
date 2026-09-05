@@ -13,14 +13,14 @@
 
 <br/>
 
-I build tools that watch on-chain money and the systems around it — crypto analytics, Discord infrastructure, and security automation. Currently going deep on **Web3 security** and building the on-chain tooling to match.
+2nd-year CS student building crypto tools, Discord bots, and on-chain monitors. Currently going into Web3 security.
 
 **Selected work**
 
-- [**mournbit**](https://github.com/Overdusts/mournbit) — crypto trading terminal & real-time market analytics
-- [**Safedeal**](https://github.com/Overdusts/Safedeal) — trustless P2P crypto escrow bot · reputation & dispute resolution
+- [**coinjury**](https://github.com/Overdusts/coinjury) — puts Solana memecoins on trial: keyless rug-risk checks + an AI verdict
+- [**mournbit**](https://github.com/Overdusts/mournbit) — crypto trading terminal + analytics
+- [**Safedeal**](https://github.com/Overdusts/Safedeal) — P2P crypto escrow bot for Discord
 - [**magnolia**](https://github.com/Overdusts/magnolia) — live exchange portfolio dashboard
-- [**themery**](https://overdusts.github.io/themery/) — a gallery of 2026 UI aesthetics, 16 live demos
 
 <br/>
 
