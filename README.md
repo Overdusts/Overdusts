@@ -14,8 +14,6 @@
 
 2nd-year CS student at SRM. I build crypto tools and Discord bots, and I'm learning smart-contract security.
 
-**Right now:** Solidity (Cyfrin Updraft) · DSA in C and Java · online CTFs and hackathons
-
 <br/>
 
 <div align="center">
